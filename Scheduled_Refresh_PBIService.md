@@ -59,6 +59,12 @@ After you sign in to your Office 365 account, you have access to the following f
 
 Manage gateways won't show up until you're the admin of at least one gateway. You become an admin either by being added as an admin or because you installed and configured a gateway.
  
+ 
  ### 4 Use the gateway to refresh an on-premises data source.
+ 
+ https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sql-tutorial
+ 
  ### 5 Troubleshoot issues with the gateway.
+ 
+ https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem-tshoot
 
