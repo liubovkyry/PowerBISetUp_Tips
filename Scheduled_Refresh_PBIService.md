@@ -1,13 +1,10 @@
-```
-Something went wrong
+
 
 Scheduled refresh has been disabled.
-Please try again later or contact support. If you contact support, please provide these details.
-Hide details
-Data source errorScheduled refresh is disabled because at least one data source is missing credentials. To start the refresh again, go to this dataset's settings page and enter credentials for all data sources. Then reactivate scheduled refresh.
-```
 
-However, when I go to dataset settings the data source credentials are nota vailable (greyed out), nor can I edit the scheduled refresh settings (same issue).
+
+Data source errorScheduled refresh is disabled because at least one data source is missing credentials. To start the refresh again, go to this dataset's settings page and enter credentials for all data sources. Then reactivate scheduled refresh.
+
 
 ## You must have administrator acess into workspace to set the credentials into gateway which has configured.
 <img src="https://user-images.githubusercontent.com/118057504/217490809-72d4af87-7b0c-4a92-a0e7-dad90fb6ff91.png" width="450" height="450">
